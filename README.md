@@ -1,6 +1,8 @@
-# Google Interview University
+    
+    GOOGLE INTERVIEW 
+    ————————————————
 
-_If you like this project, please give me a star._ &#9733;
+
 
 ## What is it?
 
